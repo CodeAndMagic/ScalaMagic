@@ -1,0 +1,134 @@
+body{
+    background: url('/images/texture.png');
+    font-family: sans-serif;
+    text-align: center;
+    font-size: 80%;
+    margin: 0 0 0 0;
+    padding: 0;
+    padding-top: 1%;
+}
+
+#container{
+    width: 700px;
+    margin: 0 auto;
+    padding: 0;
+    background-color: #fff;
+    display: block;
+    border-radius: 1em;
+    -moz-border-radius: 1em;
+    -webkit-border-radius: 1em;
+    /*border: 1px solid #333;*/
+     -webkit-box-shadow: rgba(0,0,0,0.7) 0px 0px 2em;
+    -moz-box-shadow: rgba(0,0,0,0.7) 0px 0px 2em;
+    box-shadow: rgba(0,0,0,0.7) 0px 0px 2em;
+}
+
+#header, #footer{
+    padding: 0.5em;
+}
+
+h1{
+    font-family: sans-serif;
+    font-size: 200%;
+    margin: 0 0;
+    padding: 0;
+}
+
+#lift__noticesContainer__{
+    padding: 0.5em;
+}
+
+#lift__noticesContainer__ ul{
+	list-style: none;
+	color: #fff;
+	margin: 0 0;
+	padding: 0;
+}
+
+#lift__noticesContainer__ ul li{
+    padding: 0.2em;
+    font-weight: bold;
+}
+
+#lift__noticesContainer___error ul li {
+    background-color: #DD3311;
+}
+
+#lift__noticesContainer___warning ul li {
+    background-color: #9F6000
+}
+
+ul.navigation {
+	margin:0;
+	padding:0;
+	list-style: none;
+    text-align: center;
+}
+
+ul.navigation li{
+    display:block;
+    font-family: sans-serif;
+	font-weight: 700;
+	font-size: 100%;
+	padding: 4px 15px;
+	margin-bottom: 0.3em;
+	background: -moz-linear-gradient( top, #ffffff 0%, #ebebeb 50%, #b5b5b5);
+	background: -webkit-gradient(
+		linear, left top, left bottom,
+		from(#ffffff), color-stop(0.50, #ebebeb), to(#b5b5b5));
+	border-radius: 3px;
+	-moz-border-radius: 3px;
+	-webkit-border-radius: 3px;
+	border: 1px solid #949494;
+    text-shadow: 0px 1px 0px rgba(255,255,255,0.9);
+}
+
+ul.navigation li a{
+	color: #086CA2;
+	text-decoration: none;
+}
+
+#box {
+    margin:0 auto;
+    display: block;
+    width: 400px;
+    padding-top: 1em;
+}
+
+#show_all {
+   width: 100%;
+}
+
+#show_all td{
+   width: 100%;
+}
+
+#show_all a{
+    font-family: sans-serif;
+	color: #086CA2;
+	text-decoration: none;
+	font-weight: 700;
+	font-size: 100%;
+	padding: 2px 4px;
+	background: -moz-linear-gradient( top, #ffffff 0%, #ebebeb 50%, #b5b5b5);
+	background: -webkit-gradient(
+		linear, left top, left bottom,
+		from(#ffffff), color-stop(0.50, #ebebeb), to(#b5b5b5));
+	border-radius: 3px;
+	-moz-border-radius: 3px;
+	-webkit-border-radius: 3px;
+	border: 1px solid #949494;
+    text-shadow: 0px 1px 0px rgba(255,255,255,0.9);
+}
+
+#show_all td, #show_all th {
+    padding: 0.25em;
+}
+
+#create_page {
+    width: 100%;
+}
+
+#create_page input {
+    width: 100%;
+}
