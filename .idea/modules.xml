@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/blog/1-liftweb-quick-tweaks-crudify/1-liftweb-quick-tweaks-crudify.iml" filepath="$PROJECT_DIR$/blog/1-liftweb-quick-tweaks-crudify/1-liftweb-quick-tweaks-crudify.iml" />
+      <module fileurl="file://$PROJECT_DIR$/blog/2-liftweb-quick-tweaks-change-fields-display-name/2-liftweb-quick-tweaks-change-fields-display-name.iml" filepath="$PROJECT_DIR$/blog/2-liftweb-quick-tweaks-change-fields-display-name/2-liftweb-quick-tweaks-change-fields-display-name.iml" />
+    </modules>
+  </component>
+</project>
+

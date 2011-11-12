@@ -1,19 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<module type="JAVA_MODULE" version="4">
+<module org.jetbrains.idea.maven.project.MavenProjectsManager.isMavenModule="true" type="JAVA_MODULE" version="4">
   <component name="FacetManager">
     <facet type="scala" name="Scala">
       <configuration>
         <option name="compilerLibraryLevel" value="Project" />
         <option name="compilerLibraryName" value="Maven: org.scala-lang:scala-compiler-bundle:2.9.1" />
         <option name="maximumHeapSize" value="1024" />
-        <option name="vmOptions" value="-DpackageLinkDefs=file://C:\Users\cristian\Work\my\ScalaMagic\blog\1-liftweb-quick-tweaks-crudify\target/packageLinkDefs.properties" />
+        <option name="vmOptions" value="-DpackageLinkDefs=file://C:\Users\cristian\Work\my\ScalaMagic\blog\2-liftweb-quick-tweaks-change-fields-display-name\target/packageLinkDefs.properties" />
       </configuration>
     </facet>
   </component>
   <component name="NewModuleRootManager" inherit-compiler-output="false">
     <output url="file://$MODULE_DIR$/target/classes" />
     <output-test url="file://$MODULE_DIR$/target/test-classes" />
-    <exclude-output />
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/src/main/scala" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/main/resources" isTestSource="false" />
