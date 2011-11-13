@@ -9,6 +9,7 @@
         <modules>
           <module name="1-liftweb-quick-tweaks-crudify" />
           <module name="2-liftweb-quick-tweaks-change-fields-display-name" />
+          <module name="liftweb-quick-tweaks-edit-fields-displayed-by-crudify" />
         </modules>
       </facet-type>
     </autodetection-disabled>
@@ -35,8 +36,12 @@
       <list>
         <option value="$PROJECT_DIR$/blog/2-liftweb-quick-tweaks-change-fields-display-name/pom.xml" />
         <option value="$PROJECT_DIR$/blog/2-liftweb-quick-tweaks-change-fields-display-name/pom.xml" />
+        <option value="$PROJECT_DIR$/blog/3-liftweb-quick-tweaks-edit-fields-displayed-by-crudify/pom.xml" />
       </list>
     </option>
+  </component>
+  <component name="ProjectResources">
+    <default-html-doctype>http://www.w3.org/1999/xhtml</default-html-doctype>
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_1_5" assert-keyword="true" jdk-15="true" project-jdk-name="1.7" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
